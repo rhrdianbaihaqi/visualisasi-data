@@ -1,12 +1,10 @@
 # Proyek Tugas Python (Machine Learning Dasar)
 
 **Identitas Mahasiswa:**
-- **Nama:** [Nama Anda / Muhammad Rahardian Baihaqi]
-- **NIM:** [NIM Anda]
-- **Kelas:** [Sebutkan Kelas/Grup]
-- **Mata Kuliah:** [Sebutkan Mata Kuliah - misal: Machine Learning / Kecerdasan Buatan]
-
-Proyek ini berisi kumpulan tugas pemrograman Python yang diatur ke dalam beberapa modul terpisah. Proyek ini mengimplementasikan dasar-dasar sintaks, struktur data, pembacaan data, hingga visualisasi menggunakan pustaka seperti Pandas dan Matplotlib.
+- **Nama:** Muhammad Rahardian Baihaqi]
+- **NIM:** 1237050023
+- **Kelas:** Kelas C
+- **Mata Kuliah:** Machine Learning
 
 ## Struktur Direktori
 - `main.py` -> File utama (*Orchestrator*) yang akan mengeksekusi semua modul secara berurutan.
