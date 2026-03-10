@@ -1,7 +1,7 @@
 # Proyek Tugas Python (Machine Learning Dasar)
 
 **Identitas Mahasiswa:**
-- **Nama:** Muhammad Rahardian Baihaqi]
+- **Nama:** Muhammad Rahardian Baihaqi
 - **NIM:** 1237050023
 - **Kelas:** Kelas C
 - **Mata Kuliah:** Machine Learning
